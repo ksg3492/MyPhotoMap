@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyPhotoMap</string>
+
+    <string name="permission_need">해당 앱을 이용하시려면 권한이 필요합니다.\n[설정] > [권한]에서 설정하세요.</string>
+
+
 </resources>
